@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot-apostas",
+  "version": "1.0.0",
+  "description": "Bot de apostas para Discord",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "qrcode": "^1.5.4",
+    "seyfert": "^1.0.0"
+  }
+}
